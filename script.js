@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "Marito_gym17";
+  const name = "marito_gym22";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -668,4 +668,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
